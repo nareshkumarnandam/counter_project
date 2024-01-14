@@ -33,7 +33,7 @@ body{
     border-radius: 100px;
     margin: 30px;
     font-size: 5rem;
-    color: blue;
+    color: black;
 }
 #counter{
     display: flex;
